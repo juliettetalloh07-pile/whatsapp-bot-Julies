@@ -4,9 +4,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/nexoslabs/bot-whatsapp-template?logo=github&style=flat-square&color=cyan)](https://github.com/nexoslabs/bot-whatsapp-template/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&style=flat-square&color=cyan)](./LICENSE)
 
-# WhatsApp Bot (Baileys) 🤖
+# WhatsApp Bot (julie) 🤖
 
-This is a simple and powerful WhatsApp bot built using the [Baileys](https://github.com/WhiskeySockets/Baileys) library, an unofficial WhatsApp Web API for Node.js. It allows you to automate replies, handle user messages, and create intelligent bot logic.
+This is a simple, powerful and fast WhatsApp bot built using the [goat](https://github.com/WhiskeySockets/Baileys) library, an unofficial WhatsApp Web API for Node.js. It allows you to automate replies, handle user messages, and create intelligent bot logic.
 
 > ⚠️ **Disclaimer:** This bot uses an **unofficial API**. It may violate WhatsApp’s Terms of Service and is not recommended for production or commercial use. Use at your own risk.
 
