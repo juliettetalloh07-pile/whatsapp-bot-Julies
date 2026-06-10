@@ -5,7 +5,7 @@
  */
 module.exports = {
   name: "hi",
-  description: "Say hello.",
+  description: "welcome to julie's bot.",
   /**
    * Sends a hello message to the user.
    * @param {object} sock - WhatsApp socket instance
