@@ -3,7 +3,7 @@
 # WhatsApp Bot Settings
 # =====================
 bot: 
-  name: "Nexos Bot"             # The display name of your bot
+  name: "julie bot"             # The display name of your bot
   online: true                  # Should the bot appear online?
   prefix: ">"                   # Command prefix (e.g., !, >, /)
   history: false                # Enable/disable chat history
