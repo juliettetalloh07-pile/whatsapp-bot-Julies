@@ -13,6 +13,6 @@ module.exports = {
    * @param {Array} args - Command arguments
    */
   execute: async (sock, from, args) => {
-    await sock.sendMessage(from, { text: "Hello! 👋 I am your bot julie ." });
+    await sock.sendMessage(from, { text: "Hello! 👋 I am your bot ." });
   }
 };
